@@ -1,0 +1,33 @@
+{
+  "name": "african-themes",
+  "displayName": "African Themes Collection",
+  "description": "A collection of Visual Studio Code themes inspired by the colors and landscapes of Africa.",
+  "version": "0.1.0",
+  "publisher": "gtchakama",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gtchakama/african-themes.git"
+  },
+  "license": "MIT",
+  "icon": "images/logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Africa - Rwanda Thousand Hills (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rwanda-dark.json"
+      },
+      {
+        "label": "Africa - Rwanda Akagera Sunrise (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/rwanda-light.json"
+      }
+    ]
+  }
+}
