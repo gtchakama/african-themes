@@ -2,7 +2,7 @@
   "name": "african-themes",
   "displayName": "African Themes Collection",
   "description": "A collection of Visual Studio Code themes inspired by the colors and landscapes of Africa.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "gtchakama",
   "engines": {
     "vscode": "^1.50.0"
@@ -47,6 +47,46 @@
         "label": "Africa - Ghana Black Star (Light)",
         "uiTheme": "vs",
         "path": "./themes/ghana-light.json"
+      },
+      {
+        "label": "Africa - South Africa Rainbow Nation (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/south-africa-dark.json"
+      },
+      {
+        "label": "Africa - South Africa Table Mountain (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/south-africa-light.json"
+      },
+      {
+        "label": "Africa - Zimbabwe Flame Lily (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zimbabwe-dark.json"
+      },
+      {
+        "label": "Africa - Zimbabwe Great Enclosure (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/zimbabwe-light.json"
+      },
+      {
+        "label": "Africa - Nigeria Eagle Green (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nigeria-dark.json"
+      },
+      {
+        "label": "Africa - Nigeria Pearl White (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/nigeria-light.json"
+      },
+      {
+        "label": "Africa - Namibia Desert Moon (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/namibia-dark.json"
+      },
+      {
+        "label": "Africa - Namibia Sossusvlei (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/namibia-light.json"
       }
     ]
   }
