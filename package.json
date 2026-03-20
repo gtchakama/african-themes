@@ -42,6 +42,11 @@
         "label": "Africa - Ghana Black Star (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/ghana-dark.json"
+      },
+      {
+        "label": "Africa - Ghana Black Star (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/ghana-light.json"
       }
     ]
   }

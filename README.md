@@ -14,6 +14,7 @@ A collection of Visual Studio Code themes inspired by the colors and landscapes 
 
 ### Ghana
 - **Black Star (Dark)**: Bold reds, golds, and greens with deep black accents, inspired by the Pan-African flag and the Black Star of Africa.
+- **Black Star (Light)**: A clean, vibrant theme using the same Pan-African color palette for high contrast.
 
 ## How to Install
 
