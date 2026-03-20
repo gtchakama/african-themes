@@ -2,7 +2,7 @@
   "name": "african-themes",
   "displayName": "African Themes Collection",
   "description": "A collection of Visual Studio Code themes inspired by the colors and landscapes of Africa.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "gtchakama",
   "engines": {
     "vscode": "^1.50.0"
@@ -27,6 +27,21 @@
         "label": "Africa - Rwanda Akagera Sunrise (Light)",
         "uiTheme": "vs",
         "path": "./themes/rwanda-light.json"
+      },
+      {
+        "label": "Africa - Kenya Savannah Dusk (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kenya-dark.json"
+      },
+      {
+        "label": "Africa - Kenya Rift Valley (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/kenya-light.json"
+      },
+      {
+        "label": "Africa - Ghana Black Star (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ghana-dark.json"
       }
     ]
   }
