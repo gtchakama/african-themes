@@ -2,7 +2,7 @@
   "name": "african-themes",
   "displayName": "African Themes Collection",
   "description": "A collection of Visual Studio Code themes inspired by the colors and landscapes of Africa.",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "publisher": "gtchakama",
   "engines": {
     "vscode": "^1.50.0"
